@@ -81,7 +81,7 @@
 
 
 // ####### Answer 4-------- The suspects are Miss Scarlet, Professor Plum Colonel Mustard. Suspect three is Colonel Mustard
-//  I got this one wrong, I assumed that const would ru after the Mustard was already defined as Suspect three. 
+//  I got this one wrong, I assumed that const would run after the Mustard was already defined as Suspect three. 
 
 // ######### Episode 5
 
@@ -129,7 +129,7 @@
 // console.log(verdict);
 
 
-// // ######### Answer 6---------- The murderer is Mrs White
+// // ######### Answer 6---------- The murderer is Mrs White, a new const of plottwist means that const plotwist is called, and changes the murderer
 
 // ############# Episode 7
 
